@@ -1,0 +1,14 @@
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).AssemblyInfoInputs.cache
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).AssemblyInfo.cs
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\bin\Debug\net8.0\Warrior(Морской бой).exe
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\bin\Debug\net8.0\Warrior(Морской бой).deps.json
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\bin\Debug\net8.0\Warrior(Морской бой).runtimeconfig.json
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\bin\Debug\net8.0\Warrior(Морской бой).dll
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\bin\Debug\net8.0\Warrior(Морской бой).pdb
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).dll
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\refint\Warrior(Морской бой).dll
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).pdb
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\Warrior(Морской бой).genruntimeconfig.cache
+C:\Users\Vadim\Desktop\Морской бой\Warrior(Морской бой)\Warrior(Морской бой)\obj\Debug\net8.0\ref\Warrior(Морской бой).dll
